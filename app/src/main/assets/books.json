@@ -1,0 +1,192 @@
+
+{
+  "reference" : "https://github.com/bvaughn/infinite-list-reflow-examples/blob/master/books.json",
+  "kind": "books#volumes",
+  "totalItems": 1126,
+  "items": [
+    {
+      "title": "Unlocking Android",
+      "isbn": "1933988673",
+      "id": "4skfhbshjf",
+      "pageCount": 416,
+      "publishedDate": "2009-04-01T00:00:00.000-0700",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+      "shortDescription": "Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.",
+      "longDescription": "Android is an open source mobile phone platform based on the Linux operating system and developed by the Open Handset Alliance, a consortium of over 30 hardware, software and telecom companies that focus on open standards for mobile devices. Led by search giant, Google, Android is designed to deliver a better and more open and cost effective mobile experience.    Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout. Based on his mobile development experience and his deep knowledge of the arcane Android technical documentation, the author conveys the know-how you need to develop practical applications that build upon or replace any of Androids features, however small.    Unlocking Android: A Developer's Guide prepares the reader to embrace the platform in easy-to-understand language and builds on this foundation with re-usable Java code examples. It is ideal for corporate and hobbyists alike who have an interest, or a mandate, to deliver software functionality for cell phones.    WHAT'S INSIDE:        * Android's place in the market      * Using the Eclipse environment for Android development      * The Intents - how and why they are used      * Application classes:            o Activity            o Service            o IntentReceiver       * User interface design      * Using the ContentProvider to manage data      * Persisting data with the SQLite database      * Networking examples      * Telephony applications      * Notification methods      * OpenGL, animation & multimedia      * Sample Applications  ",
+      "status": "PUBLISH",
+      "authors": "W. Frank Ableson"
+    },
+    {
+      "title": "Android in Action, Second Edition",
+      "isbn": "1935182722",
+      "id": "fd8gdjdh5k",
+      "pageCount": 592,
+      "publishedDate": "2011-01-14T00:00:00.000-0800",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
+      "shortDescription": "Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
+      "longDescription": "When it comes to mobile apps, Android can do almost anything   and with this book, so can you! Android runs on mobile devices ranging from smart phones to tablets to countless special-purpose gadgets. It's the broadest mobile platform available.    Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
+      "status": "PUBLISH",
+      "authors": "W. Frank Ableson"
+    },
+    {
+      "title": "Hello! Python",
+      "isbn": "1935182080",
+      "id": "o57jdsb9j8",
+      "pageCount": 350,
+      "publishedDate": "2012-02-13T00:00:00.000-0800",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/briggs.jpg",
+      "shortDescription": "Hello! Python fully covers the building blocks of Python programming and gives you a gentle introduction to more advanced topics such as object oriented programming, functional programming, network programming, and program design. New (or nearly new) programmers will learn most of what they need to know to start using Python immediately.",
+      "longDescription": "Learn Python the fast and fun way! Hello! Python is a fully-illustrated, project-driven tutorial designed to get you up and running with Python, no experience required. It's full of projects that help you learn the way most programmers do   one step at a time, starting with the basics, and then applying your new skills in useful programs.    Hello! Python fully covers the building blocks of Python programming and gives you a gentle introduction to more advanced topics such as object oriented programming, functional programming, network programming, and program design. New (or nearly new) programmers will learn most of what they need to know to start using Python immediately.    The book presents several practical projects, including games, business, and graphical applications. Each example provides a solid base for you to develop your own programs. As you dig into Python, you'll see how programs are created, and the reasons behind the technical decisions.    The book covers Python's large standard library gradually and in the context of sample apps, so the reader isn't overwhelmed with a large number of library functions to absorb all at once. Upon completing the book, the reader will have a good grasp of Python, know several technologies and libraries related to Python and be able to identify many resources for future growth as a programmer.",
+      "status": "PUBLISH",
+      "authors": "Anthony Briggs"
+    },
+    {
+      "title": "Graphics File Formats",
+      "isbn": "133034054",
+      "id": "ghkas6889s",
+      "pageCount": 484,
+      "publishedDate": "1995-06-01T00:00:00.000-0700",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/brown.jpg",
+      "shortDescription": "Graphics File Formats is a comprehensive guide to the file formats used in computer graphics and related areas. It discusses implementation and design of file formats in a readable style focusing on the basic issues important for the evaluation or development of file formats, including  data types  design goals  color  data organization  data encoding  data compression  classification  and conversion  The second part of the book provides summaries of over 50 graphics file formats in commercial use, such as CGM, DDES, FITS, MPEG, PICT, PostScript, TIFF, QuickTime, RIB, SunRaster, and X bitmap. Following a uniform organization, these summaries are handy reference sources for those needing basic information on these formats.    Written by two computer experts, this book is intended for graphics professionals, programmers and all those in commercial, engineering and scientific applications areas who need to make decisions related to file formats from graphical data.",
+      "longDescription": "Graphics File Formats is a comprehensive guide to the file formats used in computer graphics and related areas. It discusses implementation and design of file formats in a readable style focusing on the basic issues important for the evaluation or development of file formats, including  data types  design goals  color  data organization  data encoding  data compression  classification  and conversion  The second part of the book provides summaries of over 50 graphics file formats in commercial use, such as CGM, DDES, FITS, MPEG, PICT, PostScript, TIFF, QuickTime, RIB, SunRaster, and X bitmap. Following a uniform organization, these summaries are handy reference sources for those needing basic information on these formats.    Written by two computer experts, this book is intended for graphics professionals, programmers and all those in commercial, engineering and scientific applications areas who need to make decisions related to file formats from graphical data.",
+      "status": "PUBLISH",
+      "authors": "C. Wayne Brown"
+    },
+    {
+      "title": "Visual Object Oriented Programming",
+      "isbn": "131723979",
+      "id": "io657dg123",
+      "pageCount": 280,
+      "publishedDate": "1995-02-01T00:00:00.000-0800",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/burnett.jpg",
+      "shortDescription": "This first book on the union of two rapidly growing approaches to programming--visual programming and object technology--provides a window on a subject of increasing commercial importance. It is an introduction and reference for cutting-edge developers, and for researchers, students, and enthusiasts interested in the design of visual OOP languages and environments.  Visual Object-Oriented Programming includes chapters on both emerging research and on a few classic systems, that together can help those who design visual object-oriented programming systems avoid some known pitfalls. The book contains an experience report on the use of available visual programming languages in a commercial setting, and chapters, by some of the leaders of this cutting-edge subject, covering systems such as Prograph, VIPR, PURSUIT, ThingLab II, Vampire, Forms/3, Self's environment, Vista, SPE, and Cerno.",
+      "longDescription": "This first book on the union of two rapidly growing approaches to programming--visual programming and object technology--provides a window on a subject of increasing commercial importance. It is an introduction and reference for cutting-edge developers, and for researchers, students, and enthusiasts interested in the design of visual OOP languages and environments.  Visual Object-Oriented Programming includes chapters on both emerging research and on a few classic systems, that together can help those who design visual object-oriented programming systems avoid some known pitfalls. The book contains an experience report on the use of available visual programming languages in a commercial setting, and chapters, by some of the leaders of this cutting-edge subject, covering systems such as Prograph, VIPR, PURSUIT, ThingLab II, Vampire, Forms/3, Self's environment, Vista, SPE, and Cerno.",
+      "status": "PUBLISH",
+      "authors": "Margaret M. Burnett"
+    },
+    {
+      "title": "iOS in Practice",
+      "isbn": "1617291269",
+      "id": "qyu475opla",
+      "shortDescription": "iOS in Practice",
+      "pageCount": 325,
+      "publishedDate": "2013-11-01T00:00:00.000-0700",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cahill.jpg",
+      "status": "PUBLISH",
+      "authors": "Bear P. Cahill"
+    },
+    {
+      "title": "iPhone in Action",
+      "isbn": "193398886X",
+      "id": "ajoid89012",
+      "pageCount": 472,
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/callen.jpg",
+      "shortDescription": "There is not another iPhone title that does such a great coverage of both Web and SDK topics under one roof, thus providing a well-rounded developer education.       Vladimir Pasman, Cocoacast.com",
+      "longDescription": "The iPhone explodes old ideas of a cell phone. Its native SDK offers a remarkable range of features including easy-to-build graphical objects, a unique navigation system, and a built-in database, all on a location-knowledgeable device. Websites and web apps can now behave like native iPhone apps, with great network integration.    iPhone in Action is an in-depth introduction to both native and web programming for the iPhone. You'll learn how to turn your web pages into compelling iPhone web apps using WebKit, iUI, and Canvas. The authors also take you step by step into more complex Objective-C programming. They help you master the iPhone SDK including its UI and features like accelerometers, GPS, the Address Book, SQLite, and many more. Using Apple's standard tools like Dashcode, Xcode, and Interface Builder, you'll learn how to best use both approaches: iPhone web and SDK programming.    This book is intended as an introduction to its topics. Proficiency with C, Cocoa, or Objective-C is helpful but not required.",
+      "status": "PUBLISH",
+      "authors": "Christopher Allen"
+    },
+    {
+      "title": "Java 8 in Action",
+      "isbn": "1617291994",
+      "id": "po091hj3l8",
+      "pageCount": 0,
+      "shortDescription": "Java 8 in Action",
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/urma.jpg",
+      "status": "MEAP",
+      "authors": "Raoul-Gabriel Urma"
+    },
+    {
+      "title": "Elixir in Action",
+      "isbn": "161729201X",
+      "shortDescription": "Elixir in Action",
+      "id": "na091hj3l8",
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "pageCount": 0,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/juric.jpg",
+      "status": "MEAP",
+      "authors": "Saša Juric´"
+    },
+    {
+      "title": "MongoDB in Action, Second Edition",
+      "isbn": "1617291609",
+      "pageCount": 0,
+      "shortDescription": "MongoDB in Action, Second Edition",
+      "id": "po091hj619",
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker2.jpg",
+      "status": "MEAP",
+      "authors": "Kyle Banker"
+    },
+    {
+      "title": "Getting MEAN with Mongo, Express, Angular, and Node",
+      "isbn": "1617292036",
+      "id": "po091hj5a8",
+      "shortDescription": "Getting MEAN with Mongo, Express, Angular, and Node",
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "pageCount": 0,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sholmes.jpg",
+      "status": "MEAP",
+      "authors": "Simon Holmes"
+    },
+    {
+      "title": "Hadoop in Practice, Second Edition",
+      "isbn": "1617292222",
+      "shortDescription": "Hadoop in Practice, Second Edition",
+      "id": "ko091hj3l8",
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "pageCount": 0,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/holmes2.jpg",
+      "status": "MEAP",
+      "authors": "Alex Holmes"
+    },
+    {
+      "title": "Unity in Action",
+      "isbn": "161729232X",
+      "id": "po191hj3l8",
+      "shortDescription": "Unity in Action",
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "pageCount": 0,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hocking.jpg",
+      "status": "MEAP",
+      "authors": "Joseph Hocking"
+    },
+    {
+      "title": "Express.js in Action",
+      "isbn": "1617292427",
+      "publishedDate": "2008-12-01T00:00:00.000-0800",
+      "id": "po121aj3l8",
+      "pageCount": 0,
+      "shortDescription": "Express.js in Action",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hahn.jpg",
+      "status": "MEAP",
+      "authors": "Evan M. Hahn"
+    },
+    {
+      "title": "Java Persistence with Hibernate",
+      "isbn": "1932394885",
+      "id": "kvnk1hj3l2",
+      "pageCount": 880,
+      "publishedDate": "2006-11-01T00:00:00.000-0800",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer2.jpg",
+      "shortDescription": "this book is the ultimate solution. If you are going to use Hibernate in your application, you have no other choice, go rush to the store and get this book.\" --JavaLobby",
+      "longDescription": "Persistence -- the ability of data to outlive an instance of a program -- is central to modern applications. Hibernate, the most popular Java persistence tool, provides automatic and transparent object/relational mapping so it's a snap to work with SQL databases in Java applications. Hibernate conforms to the new EJB 3.0 and Java Persistence 1.0 standards.    Java Persistence with Hibernate explores Hibernate by developing an application that ties together hundreds of individual examples. You'll immediately dig into the rich programming model of Hibernate 3.2 and Java Persistence, working through queries, fetching strategies, caching, transactions, conversations, and more. You'll also appreciate the well-illustrated discussion of best practices in database design, object/relational mapping, and optimization techniques.    In this revised edition of Manning's bestselling Hibernate in Action, authors Christian Bauer and Gavin King -- the founder of the Hibernate project -- cover Hibernate 3.2 in detail along with the EJB 3.0 and Java Persistence 1.0 standards.",
+      "status": "PUBLISH",
+      "authors": "Christian Bauer"
+    },
+    {
+      "title": "Ruby for Rails",
+      "isbn": "1932394699",
+      "id": "nkkv1hj07t",
+      "pageCount": 532,
+      "publishedDate": "2006-05-01T00:00:00.000-0700",
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black.jpg",
+      "shortDescription": "The word is out: with Ruby on Rails you can build powerful Web applications easily and quickly! And just like the Rails framework itself, Rails applications are Ruby programs. That means you can   t tap into the full power of Rails unless you master the Ruby language.",
+      "longDescription": "Ruby for Rails helps Rails developers achieve Ruby mastery. Each chapter deepens your Ruby knowledge and shows you how it connects to Rails. You   ll gain confidence working with objects and classes and learn how to leverage Ruby   s elegant, expressive syntax for Rails application power. And you'll become a better Rails developer through a deep understanding of the design of Rails itself and how to take advantage of it.    Newcomers to Ruby will find a Rails-oriented Ruby introduction that   s easy to read and that includes dynamic programming techniques, an exploration of Ruby objects, classes, and data structures, and many neat examples of Ruby and Rails code in action.    Ruby for Rails: the Ruby guide for Rails developers!",
+      "status": "PUBLISH",
+      "authors": "David A. Black"
+    }
+  ]
+}
